@@ -123,15 +123,13 @@ Planned additions include:
 
 ---
 
-## Related Resources
+## Related Case Studies
 
-🌐 Portfolio Website
+These operating models were developed and refined through real GTM projects.
 
-⭐ AI-Native Account Prioritization Engine
+🌐 [Building an AI-Native Account Prioritization Engine](https://chadblickenstaff.io/building-an-ai-native-account-prioritization-engine)
 
-🤖 AI Workflow Library
-
-💼 LinkedIn
+🌐 [What I'd Fix at ZoomInfo's RevOps](https://chadblickenstaff.io/what-id-fix-at-zoominfos-revops)
 
 ---
 
@@ -140,3 +138,44 @@ Planned additions include:
 🚧 **Version 1**
 
 This repository will continue to grow as new operating systems are developed, tested, and documented through real-world GTM projects.
+
+---
+
+# Folder Structure
+
+```
+gtm-operating-system/
+├── README.md
+└── framework.svg
+
+account-prioritization-framework/
+├── README.md
+└── framework.svg
+
+pipeline-visibility-engine/
+├── README.md
+└── framework.svg
+
+deal-inspection-framework/
+├── README.md
+└── framework.svg
+```
+
+Each framework README should start with the same template:
+
+```markdown
+# <Framework Name>
+
+🚧 Version 1
+
+This operating system is currently being documented and will include:
+
+- Problem
+- Operating Model
+- Inputs
+- Process
+- Outputs
+- Feedback Loop
+- Lessons Learned
+- Future Improvements
+```

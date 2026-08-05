@@ -23,7 +23,7 @@ Every operating model in this repository has either been implemented, tested, or
 | GTM Operating System | High-level operating model for modern GTM organizations |
 | Account Prioritization Framework | Prioritize accounts using explicit decision layers |
 | Pipeline Visibility Engine | Improve pipeline health and execution |
-| Deal Inspection Framework | Improve deal quality and forecast confidence |
+| Deal Inspection Framework | Improve deal quality, identify execution risk, and improve forecast confidence |
 
 ---
 
@@ -123,13 +123,25 @@ Planned additions include:
 
 ---
 
-## Related Case Studies
+## Related Projects
 
-These operating models were developed and refined through real GTM projects.
+### Repositories
 
-🌐 [Building an AI-Native Account Prioritization Engine](https://chadblickenstaff.io/building-an-ai-native-account-prioritization-engine)
+⭐ **AI-Native Account Prioritization Engine**  
+https://github.com/ChadBlickenstaff/ai-native-account-prioritization-engine
 
-🌐 [What I'd Fix at ZoomInfo's RevOps](https://chadblickenstaff.io/what-id-fix-at-zoominfos-revops)
+⭐ **AI Workflow Library**  
+https://github.com/ChadBlickenstaff/ai-workflow-library
+
+---
+
+### Case Studies
+
+🌐 **Building an AI-Native Account Prioritization Engine**  
+https://chadblickenstaff.io/building-an-ai-native-account-prioritization-engine
+
+🌐 **What I'd Fix at ZoomInfo's RevOps**  
+https://chadblickenstaff.io/what-id-fix-at-zoominfos-revops
 
 ---
 
@@ -143,7 +155,7 @@ This repository will continue to grow as new operating systems are developed, te
 
 # Folder Structure
 
-```
+```text
 gtm-operating-system/
 ├── README.md
 └── framework.svg
@@ -163,7 +175,7 @@ deal-inspection-framework/
 
 Each framework README should start with the same template:
 
-```markdown
+````markdown
 # <Framework Name>
 
 🚧 Version 1
@@ -178,4 +190,3 @@ This operating system is currently being documented and will include:
 - Feedback Loop
 - Lessons Learned
 - Future Improvements
-```

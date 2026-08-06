@@ -124,4 +124,4 @@ This document outlines the operating principles behind building scalable GTM sys
 
 For the latest version of this framework and related case studies:
 
-**https://chadblickenstaff.io**
+**https://chadblickenstaff.io/building-repeatable-gtm-execution**

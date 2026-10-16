@@ -12,7 +12,7 @@ High-performing revenue organizations don't rely on individual heroics—they re
 
 This repository captures the operating models I use to think about qualification, prioritization, pipeline management, AI workflows, and revenue execution. Each framework is designed to make complex decisions more repeatable, measurable, and easier to improve over time.
 
-Every operating model in this repository has either been implemented, tested, or directly informed by real GTM work, portfolio projects, or production workflows.
+These frameworks draw from hands-on GTM experience, implemented systems, and conceptual operating models. Individual frameworks distinguish between what’s been built and what’s proposed.
 
 ---
 

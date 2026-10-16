@@ -109,20 +109,6 @@ gtm-operating-systems/
 
 ---
 
-## Future Operating Systems
-
-Planned additions include:
-
-- Territory Planning
-- Forecast Review
-- CRM Hygiene
-- Customer Expansion
-- AI Sales Research
-- Revenue Intelligence
-- AI Agent Workflows
-
----
-
 ## Related Case Studies
 
 These operating models were developed and refined through real GTM projects.
